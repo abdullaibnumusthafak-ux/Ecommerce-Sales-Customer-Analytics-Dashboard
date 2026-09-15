@@ -1,11 +1,12 @@
 # E-Commerce Sales & Customer Analytics Dashboard
 
 ## Dashboard Preview
-
+DATA
 <img width="928" height="295" alt="dash board Row data" src="https://github.com/user-attachments/assets/3d746a3b-3329-4746-a703-2f364fe3b910" />
+DASHBOARD
 <img width="1632" height="964" alt="Dashboard Sketch" src="https://github.com/user-attachments/assets/65be231b-3c4d-4e39-87cc-fc13d2329f8c" />
 
-.png)
+
 
 ## Project Overview
 
